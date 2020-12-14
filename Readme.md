@@ -5,3 +5,5 @@ The most popular and common form of algorithm/technique for classification is th
 
 
 The application will automatically detect which tuples are trained and which ones are test tuples. Subsequently the classification operation will be executed using the Naïve Bayes technique and the finally the predicted classification will be appended to the end of each test tuple. The text file will then be available for downloading with the newly added labels to the test tuples.
+
+Please use [this](https://mohammadkhorasani.pythonanywhere.com/) link to view this app.
